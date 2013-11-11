@@ -70,3 +70,21 @@ prosze testować swoje programy na stronie
 http://www.codeskulptor.org/
 
 Ani w c9.io ani w codeskulptor proszę raczej nie używać polskich znaków dialektycznych.
+
+
+Linki do zadań (przed wczytywaniem się przekopiować to sobie do edytora
+by ładnie to Państwu pokolorował - łatwiej sie czyta):
+https://raw.github.com/agh-2lo/lab2_zadania/master/1_1.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/1_2.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/1_3.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/1_4.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/1_5.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/1_6.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/1_7.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/2_1.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/2_2.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/2_3.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/2_4.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/3_1.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/3_2.py
+https://raw.github.com/agh-2lo/lab2_zadania/master/4_gwazdka.py
