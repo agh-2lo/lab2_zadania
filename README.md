@@ -3,10 +3,9 @@ Na szczęście udało nam się omówić wystarczająco
 zagadnień by stworzyć coś ciekawego :)
 
 Zdaje sobie sprawę iż mają Państwo na ich wykonanie,
-tydzień. Mi ułożenie tych zadań zajęło,
-jakieś 12h. Zrobienie ich (wszystkich), nie powinno
-zająć więcej niż 4h. Ufam że w przeciągu tygodnia,
-każdy z Państwa wygospodaruje tyle czasu.
+tydzień. Zrobienie ich (wszystkich), nie powinno
+zająć Państwi więcej niż 4h (ułożenie ich zajęło znacznie więcej)
+Ufam że w przeciągu tygodnia, każdy z Państwa wygospodaruje tyle czasu.
 
 Mając świadomość dużego rozrzutu poziomu w grupie
 poniższe zadania zaczynają się od bardzooo prostych.
@@ -26,8 +25,8 @@ Jak była mowa, kazano mi (i innym prowadzącym zajęcia),
 państwa odsiać tak by na przyszły semestr została
 jedna grupa. Mając w świadomości ten obrzydliwy
 wyścig szczurów w którym bierzecie udział ;) proszę:
-a) przyłożyć się
-b) nie dzielić się swoimi rozwiązaniami
+-  przyłożyć się
+-  nie dzielić się swoimi rozwiązaniami
 
 Nie mamy żadnej kontroli nad Państwa ew. odpisywaniem,
 nie mniej, proszę mieć świadomość że jeśli na koniec semestru
@@ -51,18 +50,18 @@ Zajęcia proszę podsyłać do niedzieli rano.
 W niedziele wieczorem zaczne je sprawdzać.
 
 Zadania można oddać na 2 spsooby:
-1) jeśli kogoś przerasta zabawa z https://c9.io
+-  jeśli kogoś przerasta zabawa z https://c9.io
 to może mi je w drodze wyjątku wysłać na maila morzech@agh.edu.pl.
-2) jeśli c9 będzie ok, to proszę w lab2 zrobić katalog 'zadania'
+-  jeśli c9 będzie ok, to proszę w lab2 zrobić katalog 'zadania'
 i tam stwożyć pliki z rozwiązaniami. 
 
 Prosiłbym by każde z zadań było w odrębnym pliku
 a jego nazwa niech będzie numerem zadania. Czyli np. 
 jeśli ktos zrobił zadania 1.1 2.3 i 3.1 to chciałbym 
 w katalogu 'zadania' widzieć 3 pliki:
-1_1.py
-2_3.py
-3_1.py
+- 1_1.py
+- 2_3.py
+- 3_1.py
 
 
 Jeśli komuś nasze środowisko programistyczne odmawia posłuszeństwa,
@@ -74,17 +73,17 @@ Ani w c9.io ani w codeskulptor proszę raczej nie używać polskich znaków dial
 
 Linki do zadań (przed wczytywaniem się przekopiować to sobie do edytora
 by ładnie to Państwu pokolorował - łatwiej sie czyta):
-https://raw.github.com/agh-2lo/lab2_zadania/master/1_1.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/1_2.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/1_3.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/1_4.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/1_5.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/1_6.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/1_7.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/2_1.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/2_2.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/2_3.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/2_4.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/3_1.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/3_2.py
-https://raw.github.com/agh-2lo/lab2_zadania/master/4_gwazdka.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/1_1.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/1_2.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/1_3.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/1_4.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/1_5.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/1_6.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/1_7.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/2_1.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/2_2.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/2_3.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/2_4.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/3_1.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/3_2.py
+- https://raw.github.com/agh-2lo/lab2_zadania/master/4_gwazdka.py
